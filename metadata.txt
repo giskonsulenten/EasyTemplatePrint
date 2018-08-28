@@ -30,7 +30,7 @@ repository=https://github.com/giskonsulenten/EasyTemplatePrint
 # Tags are comma separated with spaces allowed
 tags=printing
 
-homepage=www.giskonsulenten.dk
+homepage=http://www.giskonsulenten.dk/wp-content/uploads/2018/02/documentation.pdf
 category=Plugins
 icon=icon.png
 # experimental flag

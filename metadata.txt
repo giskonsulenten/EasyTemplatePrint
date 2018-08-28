@@ -9,14 +9,14 @@
 [general]
 name=EasyTemplatePrint
 qgisMinimumVersion=2.0
-description=This plugin makes it easy to print using templates and text variables
+description=This plugin makes it easy to print using templates and text variables. It provides an easy to use interface/dialog for text input and for rotating and placing your template for printing on map canvas.
 version=0.1
 author=Jesper Jøker Eg - GISkonsulenten
 email=jesper@giskonsulenten.dk
 
-about=Later...
+about=
 
-tracker=https://github.com/giskonsulenten/EasyTemplatePrint
+tracker=https://github.com/giskonsulenten/EasyTemplatePrint/issues
 repository=https://github.com/giskonsulenten/EasyTemplatePrint
 # End of mandatory metadata
 

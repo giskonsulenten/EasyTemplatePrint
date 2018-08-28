@@ -3,7 +3,9 @@
 /***************************************************************************
  EasyTemplatePrint
                                  A QGIS plugin
- This plugin makes it easy to print using templates and text variables
+ This plugin makes it easy to print using templates and text variables.
+ It provides an easy to use interface/dialog for text input and for 
+ rotating and placing your template for printing on map canvas.
                               -------------------
         begin                : 2018-01-08
         git sha              : $Format:%H$
